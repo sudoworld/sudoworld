@@ -17,4 +17,4 @@ $ cd ~/contacts
 
 $ ~/contacts  ls -a
 
-[.web](https://sudo.tf) [.github](https://github.com/sudoworld) [.twitter](https://twitter.com/_sudo1_) [.email: sudo@sudo.tf]
+[.web](https://sudo.tf) [.github](https://github.com/sudoworld) [.twitter](https://twitter.com/_sudo1_) sudo@sudo.tf
