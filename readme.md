@@ -1,6 +1,6 @@
 ### Welcome
 
-<img src="https://forum.sudo.tf/images/roundo/darko/roundo-darko-logo.png" title="" alt="" width="364"> 
+<img src="https://sda.wtf/assets/images/logo1.png" title="" alt="" width="364"> 
 
 SudoOS is a custom GNU/Linux OS for developers that focuses on utility and beauty and is based on Arch Linux.
 
