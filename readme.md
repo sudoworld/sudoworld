@@ -8,7 +8,7 @@ SudoOS is a project that I run in my free time alongside my work and I therefore
 private Arch Distro and maybe some people will be interested in it.
 
 ```txt
-Important: sudoOS and is under construction
+Important: sudoOS is under construction
 ```
 
 sudoOS is a purely private and hobby project by 1 man without a team without financial interest or anything else. Therefore I can't say how quickly the work will be finished.* I started the project on September 10, 2023*
