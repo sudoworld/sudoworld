@@ -14,4 +14,6 @@ Here I only collect things for my private Arch Linux distro!
 
 Contact: christian@archlinux-ultras.de
 
+**Important: This account is not affiliated with ArchLinux.org // Arch Linux is a registered trademark of Arch Linux!**
+
 
