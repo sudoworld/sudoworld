@@ -12,6 +12,8 @@ I'm just here for private purposes and there's nothing to see or find here!
 
 Here I only collect things for my private Arch Linux distro!
 
+I also develop World of Warcraft addons and DayZ mods and enjoy building websites.
+
 Contact: christian@archlinux-ultras.de
 
 **Important: This account is not affiliated with ArchLinux.org // Arch Linux is a registered trademark of Arch Linux!**
