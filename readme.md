@@ -1,4 +1,4 @@
-![](https://cloud.sda.wtf/arch-ultras.png)
+![](https://s1.christian.re/img/arch-ultras.png)
 
 **Yes, I use Arch btw!** 
 
